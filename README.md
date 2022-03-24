@@ -31,16 +31,16 @@ for the right animal, refills water and dispenses medicine in the right amount.
 # Process
 
 **First:** we made a vocabulary tree to use while
-searching the web for related devices and topics.
+searching the web for related devices and topics.<br>
 **Second:** while searching the web we gathered all
 related images to make a mood board to help us
 visualize our device and how it could work. Mood Board
-Link.
+Link.<br>
 **Third:** we developed testing
 criteria to judge our designs, and from
 there we came up with a few
-concepts.
+concepts.<br>
 **Fourth:** prototype our concepts
-and test different designs.
+and test different designs.<br>
 **Fifth:** test prototypes using the test criteria.
 Sixth: improve and fix design flaws.
